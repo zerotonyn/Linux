@@ -1,2 +1,3 @@
 # Linux
-configs and other things
+mostly configs
+
